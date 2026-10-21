@@ -1,0 +1,4 @@
+source,link,licence,files,records,revision,accessed_utc,status,note
+SFC-mini,https://huggingface.co/datasets/faisalq/SFC-mini,CC BY-NC 4.0,63 txt files,8866859,cae145d641901698f068f806ab27d95fba042ab9,2026-10-09 07:23,downloaded,one post per non-empty line; records = posts
+Gulf Arabic Tweets 2018-2020,https://huggingface.co/datasets/AhmedSSabir/Gulf-Arabic-Tweets-2018-2020,CC BY 4.0,arab_gen_twitter.csv,108052,b549bc3dc6e25ca2980695d082de2818ec9733f2,2026-10-09 07:23,downloaded,"records = tweets; text is pre-cleaned by the dataset authors (no URLs, user names or diacritics)"
+SADA (text fields only),https://www.kaggle.com/datasets/sdaiancai/sada2022,CC BY-NC-SA 4.0,"train.csv, valid.csv, test.csv",253166,Kaggle version 23,2026-10-09 07:23,downloaded,records = transcript segments in the three files; text column GroundTruthText; audio not downloaded
