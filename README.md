@@ -1,4 +1,4 @@
-#Inshallah Project: Phase 1 (D1.2 and D1.3)
+# Inshallah Project: Phase 1 (D1.2 and D1.3)
 
 This repository contains the Phase 1 extraction prototype, the data access log and the label inventory. The raw data are not included; the notebook downloads them from their original sources.
 
