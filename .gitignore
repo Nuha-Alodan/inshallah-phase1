@@ -1,0 +1,8 @@
+# downloaded source data is never committed (licences; the README says where to get it)
+data/raw/
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

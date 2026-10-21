@@ -1,0 +1,4 @@
+camel-tools==1.6.0
+huggingface_hub
+kagglehub
+pandas
