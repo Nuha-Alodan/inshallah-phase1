@@ -28,7 +28,7 @@ The notebook downloads the sources itself. To reuse files you already have, plac
 ## How to reproduce D2.2
 
 1. Open https://colab.research.google.com, choose *File → Upload notebook* and select `code/inshallah_phase1_phase2_colab.ipynb`.
-2. The notebook saves its work in Google Drive (`MyDrive/inshallah_project_revised`). If Drive does not mount, set `USE_DRIVE = False` in cell A4; the folder is then `/content/inshallah_project_revised`.
+2. The notebook saves its work in Google Drive (`MyDrive/inshallah_project`). If Drive does not mount, set `USE_DRIVE = False` in cell A4; the folder is then `/content/inshallah_project`.
 3. Copy all files from `manual/` into the `manual/` folder of that project folder before running Step 4.
 4. For SADA, add `KAGGLE_USERNAME` and `KAGGLE_KEY` in the 🔑 Secrets panel.
 5. Choose *Runtime → Run all*. If package installation asks for a restart, restart and run all again.
