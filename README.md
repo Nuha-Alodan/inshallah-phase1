@@ -2,6 +2,8 @@
 
 This repository contains the Phase 1 extraction prototype, the data access log and the label inventory. The raw data are not included; the notebook downloads them from their original sources.
 
+## Phase 2 files (D2.1 and D2.4) are in the phase2 folder.
+
 ## Files
 
 | File | Content |
