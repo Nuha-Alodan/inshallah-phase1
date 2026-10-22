@@ -1,0 +1,33 @@
+﻿source,stratum,available,reviews,evidence,rate_COMMIT,rate_WISH,rate_DEFER,rate_HEDGE,rate_SKEPTIC,rate_CLOSE,drawn,share_of_source,evidence_files,expected_SKEPTIC_contribution
+gulf,addressed,366,15,source-by-stratum,0.1333333333333333,0.6666666666666666,0.0,0.0,0.0666666666666666,0.0,1,0.0028571428571428,D2_rare100_filled.csv: 15,0.0666666666666666
+gulf,answers_question,6,20,pooled-stratum (assumption),0.35,0.4,0.05,0.15,0.05,0.0,6,0.0171428571428571,D2_stratum_extra_filled.csv: 16; D2_rare100_filled.csv: 4,0.30000000000000004
+gulf,other,351,14,source-by-stratum,0.1428571428571428,0.7142857142857143,0.0,0.0714285714285714,0.0714285714285714,0.0,334,0.9542857142857144,D2_rare100_filled.csv: 14,23.857142857142847
+gulf,past_or_yakoon,58,23,pooled-stratum (assumption),0.0434782608695652,0.782608695652174,0.0,0.1304347826086956,0.0,0.0,1,0.0028571428571428,D2_stratum_extra_filled.csv: 19; D2_rare100_filled.csv: 4,0.0
+gulf,short_or_alone,24,24,pooled-stratum (assumption),0.0833333333333333,0.5833333333333334,0.0416666666666666,0.125,0.0,0.0416666666666666,1,0.0028571428571428,D2_stratum_extra_filled.csv: 19; D2_rare100_filled.csv: 5,0.0
+gulf,skeptic_cue,4,27,pooled-stratum (assumption),0.2222222222222222,0.4814814814814814,0.074074074074074,0.1111111111111111,0.037037037037037,0.037037037037037,4,0.0114285714285714,D2_stratum_extra_filled.csv: 16; D2_rare100_filled.csv: 11,0.148148148148148
+gulf,verified_commit,8,8,human-verified candidate labels,1.0,0.0,0.0,0.0,0.0,0.0,1,0.0028571428571428,D2_rare_candidates_filled.csv,0.0
+gulf,verified_hedge,6,6,human-verified candidate labels,0.0,0.0,0.0,1.0,0.0,0.0,1,0.0028571428571428,D2_rare_candidates_filled.csv,0.0
+gulf,verified_wish,62,62,human-verified candidate labels,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0028571428571428,D2_rare_candidates_filled.csv,0.0
+sada,addressed,4109,26,source-by-stratum,0.1538461538461538,0.4230769230769231,0.0769230769230769,0.0769230769230769,0.0769230769230769,0.1153846153846153,332,0.9485714285714286,D2_rare100_filled.csv: 19; D2_stratum_extra_filled.csv: 7,25.53846153846153
+sada,answers_question,1523,12,source-by-stratum,0.5,0.3333333333333333,0.0833333333333333,0.0833333333333333,0.0,0.0,1,0.0028571428571428,D2_stratum_extra_filled.csv: 8; D2_rare100_filled.csv: 4,0.0
+sada,other,1134,26,pooled-stratum (assumption),0.1923076923076923,0.6538461538461539,0.0384615384615384,0.0769230769230769,0.0384615384615384,0.0,1,0.0028571428571428,D2_rare100_filled.csv: 26,0.0384615384615384
+sada,past_or_yakoon,160,23,pooled-stratum (assumption),0.0434782608695652,0.782608695652174,0.0,0.1304347826086956,0.0,0.0,1,0.0028571428571428,D2_stratum_extra_filled.csv: 19; D2_rare100_filled.csv: 4,0.0
+sada,short_or_alone,397,24,pooled-stratum (assumption),0.0833333333333333,0.5833333333333334,0.0416666666666666,0.125,0.0,0.0416666666666666,1,0.0028571428571428,D2_stratum_extra_filled.csv: 19; D2_rare100_filled.csv: 5,0.0
+sada,skeptic_cue,1704,12,source-by-stratum,0.25,0.4166666666666667,0.0833333333333333,0.0833333333333333,0.0,0.0833333333333333,1,0.0028571428571428,D2_rare100_filled.csv: 7; D2_stratum_extra_filled.csv: 5,0.0
+sada,verified_close,5,5,human-verified candidate labels,0.0,0.0,0.0,0.0,0.0,1.0,5,0.0142857142857142,D2_rare_candidates_filled.csv,0.0
+sada,verified_commit,22,22,human-verified candidate labels,1.0,0.0,0.0,0.0,0.0,0.0,1,0.0028571428571428,D2_rare_candidates_filled.csv,0.0
+sada,verified_defer,5,5,human-verified candidate labels,0.0,0.0,1.0,0.0,0.0,0.0,5,0.0142857142857142,D2_rare_candidates_filled.csv,0.0
+sada,verified_hedge,16,16,human-verified candidate labels,0.0,0.0,0.0,1.0,0.0,0.0,1,0.0028571428571428,D2_rare_candidates_filled.csv,0.0
+sada,verified_wish,38,38,human-verified candidate labels,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0028571428571428,D2_rare_candidates_filled.csv,0.0
+sfc,addressed,249160,29,source-by-stratum,0.0689655172413793,0.6551724137931034,0.0,0.2413793103448276,0.0344827586206896,0.0,1,0.0033333333333333,D2_rare100_filled.csv: 16; D2_stratum_extra_filled.csv: 13,0.0344827586206896
+sfc,answers_question,14037,20,pooled-stratum (assumption),0.35,0.4,0.05,0.15,0.05,0.0,1,0.0033333333333333,D2_stratum_extra_filled.csv: 16; D2_rare100_filled.csv: 4,0.05
+sfc,other,139394,26,pooled-stratum (assumption),0.1923076923076923,0.6538461538461539,0.0384615384615384,0.0769230769230769,0.0384615384615384,0.0,1,0.0033333333333333,D2_rare100_filled.csv: 26,0.0384615384615384
+sfc,past_or_yakoon,16863,18,source-by-stratum,0.0555555555555555,0.7222222222222222,0.0,0.1666666666666666,0.0,0.0,1,0.0033333333333333,D2_stratum_extra_filled.csv: 18,0.0
+sfc,short_or_alone,26299,17,source-by-stratum,0.0588235294117647,0.7647058823529411,0.0,0.0588235294117647,0.0,0.0,1,0.0033333333333333,D2_stratum_extra_filled.csv: 14; D2_rare100_filled.csv: 3,0.0
+sfc,skeptic_cue,23882,14,source-by-stratum,0.2142857142857142,0.5714285714285714,0.0714285714285714,0.0714285714285714,0.0714285714285714,0.0,282,0.94,D2_stratum_extra_filled.csv: 11; D2_rare100_filled.csv: 3,20.142857142857135
+sfc,verified_close,7,7,human-verified candidate labels,0.0,0.0,0.0,0.0,0.0,1.0,7,0.0233333333333333,D2_rare_candidates_filled.csv,0.0
+sfc,verified_commit,12,12,human-verified candidate labels,1.0,0.0,0.0,0.0,0.0,0.0,1,0.0033333333333333,D2_rare_candidates_filled.csv,0.0
+sfc,verified_defer,2,2,human-verified candidate labels,0.0,0.0,1.0,0.0,0.0,0.0,2,0.0066666666666666,D2_rare_candidates_filled.csv,0.0
+sfc,verified_hedge,23,23,human-verified candidate labels,0.0,0.0,0.0,1.0,0.0,0.0,1,0.0033333333333333,D2_rare_candidates_filled.csv,0.0
+sfc,verified_skeptic,1,1,human-verified candidate labels,0.0,0.0,0.0,0.0,1.0,0.0,1,0.0033333333333333,D2_rare_candidates_filled.csv,1.0
+sfc,verified_wish,56,56,human-verified candidate labels,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0033333333333333,D2_rare_candidates_filled.csv,0.0

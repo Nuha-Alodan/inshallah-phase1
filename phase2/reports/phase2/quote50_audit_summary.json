@@ -1,0 +1,15 @@
+{
+  "flagged_population": 208,
+  "sample_size": 50,
+  "seed": 2026,
+  "confirmed_quotes": 7,
+  "nonquotes": 42,
+  "uncertain": 1,
+  "conservative_precision": "7/50 (14%)",
+  "precision_if_uncertain_is_quote": "8/50 (16%)",
+  "method": "AI-assisted row-by-row audit; all 50 decisions personally confirmed by the author",
+  "random_metadata50_flagged_count": 5,
+  "source_prefix_valid_rows": 1000,
+  "human_confirmed_rows": 50,
+  "confirmation_date": "2026-10-13"
+}

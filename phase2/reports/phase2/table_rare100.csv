@@ -1,0 +1,9 @@
+﻿label,count_in_100,estimate_in_1000,enough,source_mix_share,ci95
+COMMIT,17,170,Yes,0.17,10.9%–25.5%
+WISH,58,580,Yes,0.58,48.2%–67.2%
+DEFER,1,10,No; add more,0.01,0.2%–5.4%
+HEDGE,13,130,Yes,0.13,7.8%–21.0%
+SKEPTIC,4,40,No; add more,0.04,1.6%–9.8%
+CLOSE,1,10,No; add more,0.01,0.2%–5.4%
+OTHER,3,30,No; add more,0.03,1.0%–8.5%
+UNCLEAR,3,30,No; add more,0.03,1.0%–8.5%
